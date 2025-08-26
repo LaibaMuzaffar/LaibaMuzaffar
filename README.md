@@ -1,4 +1,4 @@
-<h1 align="left">Hi  there 👋, </h1>
+<h1 align="left">Hi  there 👋 </h1>
 I’m Laiba, a data scientist from Pakistan, passionate about turning raw data into meaningful insights and smart solutions.
 
 I love working with Python, SQL, and machine learning to build predictive models, uncover trends, and create visualizations that make data easy to understand.
